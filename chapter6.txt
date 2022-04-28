@@ -1,0 +1,3 @@
+This is branch new chapter 6. Here I am again going to test 
+my skills regarding the git and github command.
+Thanks.
